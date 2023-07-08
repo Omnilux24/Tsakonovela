@@ -1,28 +1,6 @@
-
-<style>
-  .circle {
-    width: 200px;
-    height: 200px;
-    border-radius: 50%;
-    overflow: hidden;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .circle img {
-    max-width: 100%;
-    max-height: 100%;
-    object-fit: cover;
-  }
-</style>
-
-<div class="circle">
-  <img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg" alt="Tsakonovela's Portfolio">
+<div style="text-align: center;">
+  <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Tsakonovela's Portfolio" style="width: 200px;">
 </div>
-
-
-
 
 # Tsakonovela's Portfolio
 
