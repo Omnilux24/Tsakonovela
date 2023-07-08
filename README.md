@@ -1,6 +1,7 @@
-<div align="center">
-  <img src="https://www.vectorstock.com/royalty-free-vectors/programmer-avatar-vectors" alt="Tsakonovela's Portfolio" width="200px">
+<div style="text-align: center;">
+  <img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg" alt="Tsakonovela's Portfolio" style="width: 200px;">
 </div>
+
 
 # Tsakonovela's Portfolio
 
