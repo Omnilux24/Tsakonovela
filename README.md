@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Tsakonovela's Portfolio" style="width: 900px, hieght:200;">
+  <img src="https://i.pinimg.com/originals/2a/53/65/2a53651a35816f499270d8275fd5318f.gif" alt="Tsakonovela's Portfolio" style="width: 900px, hieght:50;">
 </div>
 
 # Tsakonovela's Portfolio
