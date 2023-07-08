@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="portfolio-logo.png" alt="Tsakonovela's Portfolio" width="200px">
+  <img src="https://www.vectorstock.com/royalty-free-vectors/programmer-avatar-vectors" alt="Tsakonovela's Portfolio" width="200px">
 </div>
 
 # Tsakonovela's Portfolio
