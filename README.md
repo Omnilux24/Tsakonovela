@@ -33,13 +33,13 @@ Description: This project demonstrates my skills in JavaScript and web developme
 
 Description: This project highlights my expertise in WordPress and website development. I have designed and developed responsive websites using custom themes, plugins, and implemented e-commerce functionality.
 
-### Project 5: Luvaddicts E-commerce Platform
+### Project 5: Luvaddicts Creator Platform
 
-Description: Luvaddicts is an e-commerce website developed using Laravel. It includes features such as product management, shopping cart functionality, and secure payment integration.
+Description: Luvaddicts is an creator website developed using Laravel. It includes features such as product management, shopping cart functionality, and secure payment integration.
 
-### Project 6: Hlohonolo Construction Website
+### Project 6: Hlohonolo Consultants Website
 
-Description: This WordPress website showcases the services and projects of Hlohonolo Construction, utilizing custom themes and plugins to create an engaging user experience.
+Description: This WordPress website showcases the services and projects of Hlohonolo Consultants, utilizing custom themes and plugins to create an engaging user experience.
 
 ### Project 7: Frank Carpentry Website
 
@@ -91,7 +91,7 @@ Description: The Mokwape Chicken website is an Angular-based platform that promo
 
 ## 📞 Contact
 
-If you would like to discuss collaboration opportunities or have any questions, feel free to reach out to me at [your email address].
+If you would like to discuss collaboration opportunities or have any questions, feel free to reach out to me at Nobsomnilux@gmail.com
 
 Let's connect and create something amazing together! ✨
 
