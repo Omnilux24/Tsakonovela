@@ -88,3 +88,11 @@ Description: UniHire is a recruitment platform built with Laravel, CSS, PHP, Jav
 ### Project 18: Mokwape Chicken Website
 
 Description: The Mokwape Chicken website is an Angular-based platform that promotes a poultry business, providing information about their products, recipes, and contact details.
+
+## 📞 Contact
+
+If you would like to discuss collaboration opportunities or have any questions, feel free to reach out to me at [your email address].
+
+Let's connect and create something amazing together! ✨
+
+</div>
