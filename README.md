@@ -1,5 +1,5 @@
 <div style="text-align: center;">
-  <img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg" alt="Tsakonovela's Portfolio" style="width: 200px;">
+  <img src="https://www.cyberark.com/wp-content/uploads/2019/11/Developer.jpg" alt="Tsakonovela's Portfolio" style="width: 900px;">
 </div>
 
 
